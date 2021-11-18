@@ -296,6 +296,10 @@
 
 /* Section/Article */
 
+section.list h4 {
+	color:#7d342a;
+}
+
 	section.special, article.special {
 		text-align: center;
 	}
