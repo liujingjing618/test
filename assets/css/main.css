@@ -1,7 +1,7 @@
 @import url("fontawesome-all.min.css");
 @import url('https://fonts.googleapis.com/css2?family=Lustria&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;1,100;1,300;1,400;1,700&family=Lustria&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;1,100;1,300;1,400;1,700&family=Lustria&family=Metamorphous&family=Special+Elite&display=swap');
 /*
 
 */
@@ -898,7 +898,7 @@ section.list h4 {
 			padding: 0;
 		}
 		#banner h3 {
-			font-family: "New Century Schoolbook", Times, serif;
+			font-family: 'Lato', sans-serif;
 			color:#7d342a;
 			font-size: 2em;
 			line-height: 1em;
