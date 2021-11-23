@@ -100,7 +100,7 @@
 	}
 
 	body {
-		background: #f5f5f5;
+		background: #fefbf6;
 	}
 
 	body, input, select, textarea {
@@ -367,7 +367,7 @@ section.list h4 {
 /* Box */
 
 	.box {
-		background: #fff;
+		background: white;
 		border-radius: 6px;
 		box-shadow: 0 2px 0 0 #e5e5e5;
 		margin: 0 0 2em 0;
@@ -900,7 +900,7 @@ section.list h4 {
 		#banner h3 {
 			font-family: 'Lato', sans-serif;
 			color:#7d342a;
-			font-size: 2em;
+			font-size: 1.75em;
 			line-height: 1em;
 			margin-bottom: 1.75em;
 			padding: 0;
@@ -3192,6 +3192,9 @@ table {
 				#banner h2 {
 					font-size: 2.25em;
 				}
+				#banner h3 {
+					font-size: 1.65em;
+				}				
 
 				#banner p {
 					font-size: 1.25em;
