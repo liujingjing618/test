@@ -327,7 +327,7 @@ section.list h4 {
 
 	header h2 + p {
 		font-size: 1.25em;
-		margin-top: -1em;
+		margin-top: -0.5em;
 		line-height: 1.5em;
 	}
 
@@ -561,7 +561,7 @@ section.list h4 {
 /* Image */
 
 	.image {
-		border-radius: 6px;
+		border-radius: 2px;
 		border: 0;
 		display: inline-block;
 		position: relative;
